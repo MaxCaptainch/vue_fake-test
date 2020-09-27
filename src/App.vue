@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="nav-bar"><h1>ЗНУ ТЕСТ</h1></div>
+    <div class="nav-bar"></div>
     <router-view/>
   
   </div>
